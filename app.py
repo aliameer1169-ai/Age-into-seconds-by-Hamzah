@@ -31,4 +31,5 @@ with st.expander("ℹ️ How it works"):
     Uses Python’s built-in `datetime` module for accurate calculations.
     """)
 
-st.
+
+
